@@ -19,7 +19,7 @@ Currently, you can use this repository to:
 
 We highly value community feedback. To report an issue, please follow these steps:
 
-1. Navigate to the [Issues](https://github.com) tab at the top of this page.
+1. Navigate to the [Issues]([https://github.com](https://github.com/eeoom/source-of-trust/issues)) tab at the top of this page.
 2. Click on the green **"New Issue"** button.
 3. Provide a clear description of the issue, steps to reproduce it, and (if applicable) which AI engine or browser you were using.
 
