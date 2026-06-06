@@ -26,7 +26,7 @@ We highly value community feedback. To report an issue, please follow these step
 ## 🔗 Official Links
 
 * **Website:** [sourceoftrust.com](https://sourceoftrust.com)
-* **Bluesky:** [@sourceoftrust.com](https://bsky.app)
+* **Bluesky:** [@sourceoftrust.com](https://bsky.app/profile/sourceoftrust)
 
 ---
 *Managed by [eeoom](https://eeoom.com). Built for the future of AI-driven discovery.*
